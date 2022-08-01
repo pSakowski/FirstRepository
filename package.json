@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/psakowski1213/FirstRepository/issues"
   },
-  "homepage": "https://github.com/psakowski1213/FirstRepository#readme"
+  "homepage": "https://github.com/psakowski1213/FirstRepository#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10"
+  }
 }
